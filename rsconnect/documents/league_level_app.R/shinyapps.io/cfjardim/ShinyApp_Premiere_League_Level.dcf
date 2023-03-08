@@ -5,9 +5,9 @@ account: cfjardim
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8494409
-bundleId: 6923013
+bundleId: 6931005
 url: https://cfjardim.shinyapps.io/ShinyApp_Premiere_League_Level/
-when: 1678136867.30175
-lastSyncTime: 1678136867.30176
+when: 1678282049.69179
+lastSyncTime: 1678282049.6918
 asMultiple: FALSE
 asStatic: FALSE

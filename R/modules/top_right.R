@@ -7,7 +7,7 @@ module_top_right_UI <- function(id) {
   ns <- NS(id)
   tagList(div(
     class = 'top_right',
-    style = "grid-area: top_right;",
+    
     h5("Others Stats"),
     
     

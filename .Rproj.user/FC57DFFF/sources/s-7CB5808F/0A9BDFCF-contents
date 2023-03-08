@@ -36,8 +36,6 @@ ui <- fluidPage(
                 "league_level  bottom_right_two",
                 " league_level top_right",
                 " league_level ."
-
-                # " league_level ."
               ),
               md = c("league_level",
                      "bottom_right_two",
