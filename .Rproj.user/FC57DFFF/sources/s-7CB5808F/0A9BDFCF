@@ -3,7 +3,7 @@
     "path": "C:/Users/Cassio_1/OneDrive/Github_Projects/ShinyApp_Premiere_League_Level/league_level_app.R",
     "project_path": "league_level_app.R",
     "type": "r_source",
-    "hash": "54758490",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1678136245876.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,31",
+        "cursorPosition": "12,40",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678136252,
+    "lastKnownWriteTime": 1678136786,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678136252264,
+    "last_content_update": 1678136786946,
     "read_only": false,
     "read_only_alternatives": []
 }
